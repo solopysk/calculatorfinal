@@ -1,0 +1,31 @@
+#calc {
+  border: 1px solid black;
+  border-radius: 10px;
+  position: absolute;
+  width: 400px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: blueviolet;
+}
+button {
+  size: 30px 30px;
+  font-size: 30px;
+  background-color: darkorange;
+  border: 1px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+}
+#data {
+  color: black;
+  height: 70px;
+  font-size: 42px;
+  text-align: center;
+  background-color: aqua;
+  border: 2px solid red;
+}
